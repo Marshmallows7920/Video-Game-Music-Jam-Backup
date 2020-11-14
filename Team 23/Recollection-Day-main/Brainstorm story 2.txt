@@ -1,0 +1,48 @@
+The setting will still happen in a small town
+But the environment is bleak and it is war time. 
+
+The main character is a peasant child, and the people in their town are mass harvesting food and sending them to trains to be "rations" for the soldiers 
+
+The setting opens on the dining room at home, with the mother talking about the girl's father going to the forest to catch a moose that got loose. Mother tells girl to deliver food to the grandson of the neighbor next door who is very ill, and asks her to go to sleep afterwards. The girl delivers the food to the boy and a sad melody plays. After the task, the girl is free interact with different things in the first day. 
+
+The girl keeps a music box. Everytime that a new jingle/melody is heard, it is recorded in the box. When you replay a jingle from the music box, a vague vision is shown. The girl must go around and collect all nine jingles from interacting with different things in the town before she goes to sleep. The player does not know that the nine jingles will correspond to the next nine days that will take place in the town.
+
+
+Interaction:
+Navigate and talk to people or interact with things. This will sometimes prompt choices to be made that will determine the fate of the character the next day. The girl can access her music box and replay the visions any time. 
+
+Objective:
+The next nine days, a new tragedy will hit the town. You must make the correct choices in that day so that you can survive. The people or narratives around you can sometimes be leads, or be distractions. When you hear musical cues play, you must rely on your vision to know what choice you must make. 
+
+Progression:
+For every day the girl survives, the vision corresponding to that day is replaced with an actual scene that happened the day she survived.
+
+
+NOTE: We can shorten this to four days for this jam
+
+
+
+
+
+
+
+
+Possibilities: 
+
+Second day, girl must not visit the hospital. It will later be revealed that a plague is brewing there. 
+
+Third day, a bombed was dropped that destroyed the moose pen. The town panics and some of the folks wanted to take shelter in the cave. Your mother thinks they are crazy. The girl must join the people who are taking shelter in the cave because bombings will start in the night. 
+
+Fourth day, the girl must leave the cave and return to town. Snakes(?) will kill the people in the cave. 
+
+Fifth day, the girl returns to a ruined town. Her house had been destroyed, as well as all the crops. The player should not take food from the hospital. A new path had been opened by the bomb leading to a warehouse, and she should steal from the rations. She needs to hide in a hatch and not sleep in any bed because looters will raid the town in the night. 
+
+Sixth day, the girl is starting to get hungry. She climbs up and the warehouse is empty now. She finds random people begging gor food and asking for favors in return. Some claim they have a bunker but that's false. She needs to keep four for herself. If she gives food to the boy from the first day, that boy will stay alive in the ninth day. 
+
+Ninth day, the boy (if he's alive) will help the girl escape.
+
+
+
+
+
+

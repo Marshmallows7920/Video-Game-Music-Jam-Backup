@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Johnny",
+        "username": "jman",
+        "age": 27,
+        "birthplace": "Ansrode",
+        "interests": [
+            "math",
+            "deathjazz",
+            "caligraphy"
+        ],
+        "dislikes": [
+            "programming",
+            "ugly sweaters"
+        ]
+    },
+    {
+        "name": "Tim",
+        "username": "mrT",
+        "age": 15,
+        "birthplace": "Hallstein",
+        "interests": [
+            "baseball",
+            "the setting sun",
+            "glowsticks"
+        ],
+        "dislikes": [
+            "reading books to the elderly"
+        ]
+    },
+    {
+        "name": "Joe",
+        "username": "justJoe",
+        "age": 16,
+        "birthplace": "Maives",
+        "interests": [
+            "math",
+            "trains"
+        ],
+        "dislikes": [
+            "corrupt authoritarian governments",
+            "Tim"
+        ]
+    }
+]

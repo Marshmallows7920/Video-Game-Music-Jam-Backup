@@ -1,0 +1,182 @@
+Recollection
+Poutine Restaurant
+You serve customers
+But there are mysteries in the poutine restaurant
+You need to 
+And then you realize you're just in a dream
+
+or you work in a poutine restaurant
+and you strangely recognize your customers and their backstories
+
+
+Completing a dream
+You only remember the start of a dream, but you forgot the rest
+You need to complete it
+Multiple choices/ending
+Escape room vibes
+
+Based on audio cues
+
+Building Up
+You do tasks in a small town
+Background is summer time
+then winter time
+Different detour every day
+then 5 or 6 days in
+different levels start to blend together
+Task and setting combine
+implicit deja vu
+
+First you drive to work with one character
+then you drive to work in a different time 
+
+Time-bound Choice-based?
+Time limit doing tasks
+but what you do in a task carries on to the next
+
+Multitasking
+one thing happens in 2 minute, then the next time another thing happens
+Pavlov - asscoiate certain sound with action
+Train player to react to certain sound
+
+Memory
+Don't miss something!
+Earlier you get out of the dream, the better!
+but you need all those clues
+
+Tally the dies
+
+Tasks are a distraction
+Score are to fool you :P
+It's the days that matter
+"Deliver groceries to an elderly woman"
+
+Tasks associated with sound
+5/10 tasks to do in a day
+
+You hear a sound for another task, compels the player to do the next one
+Remember the tasks
+
+Secretly add three to four distraction tasks
+Everyday, 5 random tasks from a masterlist of tasks
+You can add more clues
+
+
+SUPER subtle changes in the tasks each time you do them
+
+ROUTINE
+1 - bark - feed dog
+2 - ding dong - work at restaurant
+3 - car horn - check mailbox
+4 - stomach growl - go eat
+
+RANDOM
+1 - water running - turn fire hydrant
+2 - car alarm - turn off car alarm
+3 - ice cream truck jingle - buy ice cream
+4 - fire crackling - turn off stove
+5 - meow - rescue kitten from a tree
+6 - bells - open church doors
+7 - phone ringing - hold space to pick up phone
+8 - moo - moose back in the pen
+
+Every day, a jingle and text will tell you what task to do every 15 seconds after you complete a task
+
+Player’s journal tells what to do first
+
+Week 1: Routine + 2 random 1-3
+Week 2: Routine + 2 random 1-4 + 1 distraction per day
+Week 3: Routine + 3 random 1-6 + 2 distraction per day
+Week 4: Routine + 3 random 1-8 + 3 distraction per day
+
+Throw people off by playing wrong sound effect/jingle to a task 
+Illusion of progression - points? getting money?
+Slow - want them to learn task to associate sounds
+Schizophrenia - gaslighting people
+
+What if you were going around the town not knowing that you are in a monopoly game
+
+PROGRESSION?
+1 - You learn you don't have a dog
+
+Tell player game will end in 30 days
+Crack the day in 30 days?
+OR go to negative - game doesn't end, you were fooled lol
+Go past 30 days the game will never be cracked
+
+Choose character maybe
+Player can specify name
+
+If they’ve been fooled enough times (they did the wrong task 30 times), door opens up
+Time travel, go back in time to undo a deja vu
+Heavy narrative? Work on a tragedy story :’> Story will be revealed once all the clues are found that will make the user say.. “I knew it :’(”
+
+Makes it easy for Andrea(don’t mind this):
+Change town into campground? War ruins? Enchanted forest? Cute monster world?
+Point and click first person navigation based instead of third person camera navigation?
+
+Deja vu: “This is exactly what I expected would happen”
+Deja vu: “Already experienced; Why does this feel familiar?”
+Deja vu: “I know this already”
+
+Or, maybe you slowly learn the town you interact with and live in has actually been destroyed a week ago
+but you learn about it
+as war memories come into your mind one sound at a time
+
+------------
+STORYBOARD
+------------
+Protagonist lives in a small town. They live in a cute brick house with a fluffy pet cat. Like any human being, they need to go to work 5 days a week, feed their pet dog, cook food, and talk to people, get ice cream from the truck that passes by in the evening. They wake up everyday thinking that life is all about making money and having fun.
+
+Little does the person know that he living the start of a dream that he doesn’t know the ending of. He needs to gather clues within 30 days and try to escape the dream, or the player will be stuck in the dream forever. 
+
+
+---------------------------------------------------
+MECHANICS: STRAIGHTFORWARD
+---------------------------------------------------
+Basic controls for interaction are shown to the player. Player refers to journal for a list of tasks that he has to complete in a day. Complete the tasks and get points/money/achievements. A sound cue related to the task plays if a task is finished (e.g. you feed the dog, the dog barks). Later on the game, you rely less on your journal and more on sound cues to complete tasks.
+Player is given 12 hours in one day to allocate to tasks. Number of hours can be seen along with the task. Player has 15 days to play.
+
+---------------------------------------
+MECHANICS: PATHFINDING
+---------------------------------------
+Basic controls for interaction are shown to the player. What the player does in the day is up to them.  Setting is exploratory, they need to interact with things to know what their task is supposed to be.
+
+Or
+
+Goal is to collect all sound cues to complete missing pieces of a deja vu. Have a sound journal.
+
+---------------------------------------
+MECHANICS: SAMPLE SEQUENCE
+---------------------------------------
+You have an ice cream addiction and think that ice cream is supposed to be eaten.
+In reality, it needs to be cooked with the hot sauce in the restaurant you worked on, and fed to your dog. And the dog is set on fire, and you need to use the fire hydrant to stop the fire so that it doesn’t spread to your home. Your dog becomes hotdog, and the kitty you rescued from the tree must eat the hotdog.
+
+---------------------------------------
+MECHANICS: WARPED
+---------------------------------------
+Basic controls for interaction are shown to the player. Tasks are given to the player to give them a sense of reality. As days go by, sound/graphic cues get warped, implying that reality may be something that is other than what they are doing. The player needs to break their routine/journal and follow the sound cues that they learned from memory, and one by one the pieces of the dream falls apart. Goal is to learn the right sequence of tasks to win game. If game not broken in allocated time, game will go on forever.
+
+---------------------------------------
+MECHANICS: DYNAMIC
+---------------------------------------
+Player thinks they must build stats and get as much money as possible. All of this is actually a distraction. Sound cues give clues on possible objectives that can lead to an ending. Collect items, use them on certain things. Unlock new places/tasks on the way. Achievements build up to one of a handful of multiple endings(e.g. Escaping town). Cutscenes when milestone is reached?
+
+---------------------------------------
+MECHANICS: DARK
+---------------------------------------
+Realize that everything is slowly getting dark and you need to get out asap lol/ realize that what you’re living in is a dream(turns out you do not have a dog) which makes it dark. Sounds get distorted/eerie.
+
+---------------------------------------
+MECHANICS: MYSTERY
+---------------------------------------
+The map that you have is an illusion. The tasks are an illusion but they help you learn cues and discover the world around you. Discover parts of the real map by looking for disjoint sound cues(e.g. Hear dog sounds at work). If you complete the right task on the “wrong” place, real map piece will be revealed(or not if you want player to use memory skills).
+
+
+
+
+
+FOCUS ON MORE DYNAMICITY AND LESS REPETITION TO MAKE GAME 
+INTERESTING
+
+
